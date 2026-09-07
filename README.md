@@ -14,7 +14,7 @@ This project is based on and modifies:
 [Cuckoo Code](https://github.com/wangyongpeng90/cuckoo-code)
 
 Copyright for the original portions remains with the original authors.
-Modifications are copyright © 2026 YourName.
+Modifications are copyright © 2026 YourNamesnwmdd114514-lang.
 
 
 执照
@@ -22,4 +22,4 @@ Modifications are copyright © 2026 YourName.
 
 本项目基于并修改了 [Cuckoo Code](https://github.com/wangyongpeng90/cuckoo-code) 。
 
-原文版权归原作者所有。修改后的版本版权归 © 2026 YourName 所有。
+原文版权归原作者所有。修改后的版本版权归 © 2026 snwmdd114514-lang 所有。
