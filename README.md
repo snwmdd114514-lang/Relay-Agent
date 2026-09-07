@@ -12,6 +12,78 @@
 
 这只是协议标记，不再是产品名称。
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## License & Upstream
+
+Relay Agent is licensed under the GNU General Public License v3.0 or later
+(GPL-3.0-or-later).
+
+This project is based on and modifies:
+
+[Cuckoo Code](https://github.com/wangyongpeng90/cuckoo-code)
+
+Copyright in the original portions remains with the original authors.
+
+Modifications made as part of Relay Agent are copyright © 2026 snwmdd114514-lang.
+
+Relay Agent is an independently maintained modified version of the upstream project.
+It is not an official release of Cuckoo Code.
+
+Major modifications include, but are not limited to:
+
+* Relay Agent runtime and local tool execution bridge
+* DeepSeek web integration
+* Message queue and 2–4 second randomized send throttling
+* Web tools such as `webSearch`, `webLooking`, `webHtml`, and `webDownload`
+* XML / DSML compatibility handling
+* Agent configuration, local project management, skills, MCP, and session handling
+* Branding, directory structure, startup logic, and other implementation changes
+
+The original project and its authors are not responsible for bugs, behavior, or changes introduced in Relay Agent.
+
+---
+
+## 许可证与上游项目
+
+Relay Agent 采用 GNU General Public License v3.0 或更高版本
+（GPL-3.0-or-later）进行许可。
+
+本项目基于并修改自：
+
+[Cuckoo Code](https://github.com/wangyongpeng90/cuckoo-code)
+
+原始代码部分的版权仍归原作者所有。
+
+Relay Agent 中新增和修改部分的版权 © 2026 snwmdd114514-lang 所有。
+
+Relay Agent 是基于上游项目独立维护的修改版本，
+并非 Cuckoo Code 的官方版本。
+
+主要修改内容包括但不限于：
+
+* Relay Agent 本地运行时与工具执行桥
+* DeepSeek 网页端集成
+* 消息发送队列与随机 2～4 秒发送节流
+* `webSearch`、`webLooking`、`webHtml`、`webDownload` 等 Web 工具
+* XML / DSML 工具调用兼容处理
+* Agent 配置、项目目录、Skill、MCP 与 Session 管理
+* 品牌名称、目录结构、启动逻辑及其他实现层面的修改
+
+Relay Agent 中新增的功能、修改以及由此产生的问题，不代表原项目作者的行为或责任。
+
+
 ## v0.7.0 主要变化
 
 - 全面改名为 **Relay Agent / 中继智能体**。
