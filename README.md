@@ -14,7 +14,7 @@ This project is based on and modifies:
 [Cuckoo Code](https://github.com/wangyongpeng90/cuckoo-code)
 
 Copyright for the original portions remains with the original authors.
-Modifications are copyright © 2026 YourNamesnwmdd114514-lang.
+Modifications are copyright © 2026 snwmdd114514-lang.
 
 
 执照
